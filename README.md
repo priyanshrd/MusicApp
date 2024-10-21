@@ -1,6 +1,6 @@
 # 🎵 GEEK Music App (Work In Progress)
 
-A minimalist and intuitive music streaming web app that allows users to stream songs from multiple sources (YouTube, Apple Music, etc.), create playlists, and explore new tracks. The app is powered by various APIs to fetch and play songs directly in the browser. 
+A minimalist and intuitive music streaming web app allows users to stream songs from multiple sources (YouTube, Apple Music, etc.), create playlists, and explore new tracks. Various APIs power the app to fetch and play songs directly in the browser. 
 
 > **Note**: This project is currently under development, and several features are yet to be implemented.
 
