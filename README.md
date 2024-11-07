@@ -21,9 +21,4 @@ Follow the steps below to clone and set up the project on your local machine:
 - npm or yarn
 - API keys for YouTube, Apple Music, and other services.
 
-### Installation Steps
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/geek-music-app.git
-   cd geek-music-app
